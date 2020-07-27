@@ -1,0 +1,7 @@
+[streams]
+
+[sites.twitch]
+client_id = ""
+client_secret = ""
+auth_url = "https://id.twitch.tv/oauth2/authorize"
+token_url = "https://id.twitch.tv/oauth2/token"
